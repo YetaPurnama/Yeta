@@ -34,13 +34,20 @@ body {
     text-decoration: none;
     border: 1px solid #cccccc;
     border-radius: 5px;
-    margin: 0 10px;
+    margin: 10px;
 }
 
 /* Change color on hover */
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #5f5cfa;
     color: rgb(255, 255, 255);
+}
+
+.isiheader {
+    padding: 1px;
+    text-align: center;
+    background: white;
+    margin-top: 10px;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -58,7 +65,7 @@ body {
     padding-left: 20px;
 }
 
-/* Fake image */
+/* Fake image */    
 .fakeimg {
     background-color: #aaa;
     width: 100%;
