@@ -19,6 +19,21 @@ body {
     font-size: 50px;
 }
 
+.nav {
+    float: right;
+    padding: 1px;
+    text-align: right;
+    background: white;
+    margin-bottom: 20px;
+}
+
+.nav a {
+    float: right;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
